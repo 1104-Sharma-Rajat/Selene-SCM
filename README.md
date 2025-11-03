@@ -31,7 +31,7 @@ With further development, this work could evolve into a more robust reasoning mo
 
 ## Example Run  
 <p align="center">
-  <img src="images/SampleRun.png" width="600"><br>
+  <img src="images/sampleRun.png" width="600"><br>
   <em>Figure 1: Sample run of the Symptom Classification Model</em>
 </p>
 
